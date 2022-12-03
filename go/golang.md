@@ -34,9 +34,9 @@
 
 
 
-包装 s3 等云存储接口....
+# 包装 s3 等云存储接口....
 
-&#x20;juicedata/juicefs: JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+juicedata/juicefs: JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 
 [https://github.com/juicedata/juicefs](https://github.com/juicedata/juicefs)
 
