@@ -12,7 +12,8 @@
 
 #### 《面向WebAssembly编程》
 
-{% embed url="https://github.com/3dgen/cppwasm-book" %}
+[https://github.com/3dgen/cppwasm-book](https://github.com/3dgen/cppwasm-book)
+
 
 
 
@@ -34,7 +35,7 @@
 
 
 
-# 包装 s3 等云存储接口....
+# JuiceFS 包装 s3 等云存储接口 
 
 juicedata/juicefs: JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 
@@ -46,7 +47,7 @@ juicedata/juicefs: JuiceFS is a distributed POSIX file system built on top of Re
 
 
 
-
+## tidis
 
 Distributed transactional NoSQL database, Redis protocol compatible using tikv as backend
 
