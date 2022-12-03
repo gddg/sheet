@@ -22,7 +22,7 @@ Cookin' with Rust
 
 CPython Internals  中文版
 
-
+微软独立研究员Anthony Shaw的《CPython Internals》中文版。
 
 [https://hai-shi.gitbook.io/cpython-internals/2-source-code](https://hai-shi.gitbook.io/cpython-internals/2-source-code)
 
