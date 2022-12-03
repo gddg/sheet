@@ -10,8 +10,8 @@
 
 ### Go
 
-* [Golang](dev/golang.md)
-* [cpp](dev/cpp.md)
+*   [Golang](dev/golang.md)
+*   [cpp](dev/cpp.md)
 
 
 ***
