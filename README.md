@@ -1,5 +1,6 @@
 ---
 description: 常用tmux
+coverY: 0
 ---
 
 # tmux
