@@ -10,11 +10,12 @@
 
 ### 合并
 
-git checkout master
+> git checkout master
 
-git merge  branch123
+> git merge  branch123
 
 # rebase 
+
 
 
 

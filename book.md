@@ -2,16 +2,11 @@
 description: 参考书
 ---
 
-# Book
+### Book
 
+[ Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust\_magazine\_2021/index.html#rust%E8%AF%AD%E8%A8%80%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972021)
 
-
-
-
-
-
-Rust语言开源杂志（2021）[https://rustmagazine.github.io/rust\_magazine\_2021/index.html#rust%E8%AF%AD%E8%A8%80%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972021](https://rustmagazine.github.io/rust\_magazine\_2021/index.html#rust%E8%AF%AD%E8%A8%80%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972021)
-
+[通过例子学 Rust 中文版](https://rustwiki.org/zh-CN/rust-by-example/)
 
 
 Cookin' with Rust
@@ -28,11 +23,9 @@ CPython Internals  中文版
 
 
 
-#### [The Cargo Book](https://doc.rust-lang.org/cargo/index.html#the-cargo-book) <a href="#the-cargo-book" id="the-cargo-book"></a>
+the-cargo-book
 
-#### [https://doc.rust-lang.org/cargo/index.html](https://doc.rust-lang.org/cargo/index.html) <a href="#the-cargo-book" id="the-cargo-book"></a>
-
-
+[https://doc.rust-lang.org/cargo/index.html](https://doc.rust-lang.org/cargo/index.html) 
 
 
 
@@ -40,3 +33,7 @@ CPython Internals  中文版
 
 [https://ffmpeg.xianwaizhiyin.net/](https://ffmpeg.xianwaizhiyin.net/)
 
+
+[Welcome to GCC Wiki](https://gcc.gnu.org/wiki/)
+
+[C11实现状态GCC](https://gcc.gnu.org/wiki/C11Status)
