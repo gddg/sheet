@@ -8,8 +8,6 @@ description: 参考书
 
 
 
-[https://hai-shi.gitbook.io/cpython-internals/2-source-code](https://hai-shi.gitbook.io/cpython-internals/2-source-code)
-
 
 
 Rust语言开源杂志（2021）[https://rustmagazine.github.io/rust\_magazine\_2021/index.html#rust%E8%AF%AD%E8%A8%80%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972021](https://rustmagazine.github.io/rust\_magazine\_2021/index.html#rust%E8%AF%AD%E8%A8%80%E5%BC%80%E6%BA%90%E6%9D%82%E5%BF%972021)
@@ -24,7 +22,9 @@ Cookin' with Rust
 
 CPython Internals  中文版
 
-S
+
+
+[https://hai-shi.gitbook.io/cpython-internals/2-source-code](https://hai-shi.gitbook.io/cpython-internals/2-source-code)
 
 
 
