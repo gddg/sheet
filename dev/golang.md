@@ -68,5 +68,4 @@ Distributed transactional NoSQL database, Redis protocol compatible using tikv a
 
 
 
-Go 语言在 Google 中的应用¶
-https://blog.huangz.me/2022/go-in-google.html
+[Go 语言在 Google 中的应用](https://blog.huangz.me/2022/go-in-google.html)

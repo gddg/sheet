@@ -108,3 +108,7 @@ sudo make install
 ```
 > autossh -M 0 -f -T -N cli-mysql-tunnel
 
+
+
+ubuntu 下 init.d 服务启动脚本编写
+https://codeantenna.com/a/9c7quFnSxy
