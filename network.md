@@ -9,3 +9,5 @@ SmartDNS
 
 流量工具
 
+sniffnet
+<https://github.com/GyulyVGC/sniffnet>
