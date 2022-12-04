@@ -1,6 +1,7 @@
 # Table of contents
 
-* [tmux](README.md)
+* [home](README.md)
+* [tmux](tmux.md)
 * [Book](book.md)
 * [shell](shell.md)
 * [Page 1](page-1.md)
