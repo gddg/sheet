@@ -10,10 +10,9 @@
 
 ### Dev
 
-*   [Golang](dev/golang.md)
+*   [ ]()
     - [Golang](dev/golang.md)
-*   [cpp](dev/cpp.md)
-
+    - [cpp](dev/cpp.md)
 
 ***
 
