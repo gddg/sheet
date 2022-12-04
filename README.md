@@ -1,5 +1,5 @@
 ---
-description: 常用tmux
+description: 书签工具
 coverY: 0
 ---
 
