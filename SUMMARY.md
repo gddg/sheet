@@ -1,10 +1,9 @@
 # Table of contents
 
-* [home](README.md)
+* [README](README.md)
 * [tmux](tmux.md)
 * [Book](book.md)
 * [shell](shell.md)
-* [Page 1](page-1.md)
 * [docker](docker.md)
 * [git](git.md)
 * [UDP](udp.md)
@@ -14,7 +13,9 @@
 *   [Dev资料]()
     - [Go](dev/golang.md)
     - [Cpp](dev/cpp.md)
+    - [TCP](dev/tcp.md)
+    - [Python](dev/python.md)
 
 ***
 
-* [network](network.md)
+* [network tools](network.md)

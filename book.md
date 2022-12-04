@@ -29,7 +29,7 @@ the-cargo-book
 
 
 
-《FFmpeg原理》
+FFmpeg原理
 
 [https://ffmpeg.xianwaizhiyin.net/](https://ffmpeg.xianwaizhiyin.net/)
 

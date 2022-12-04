@@ -4,15 +4,16 @@
 
 查看会话
 
-tmux ls
+> tmux ls
 
 附加到已经有的会话&#x20;
 
-tmux  a -t  XXX
+> tmux  a -t  XXX
 
 安装
 
-直接复制 scp  \~/.tmux   root@
+直接复制 
+> scp  \~/.tmux   root@
 
 
 
