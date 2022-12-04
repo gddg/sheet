@@ -8,11 +8,11 @@
 * [git](git.md)
 * [UDP](udp.md)
 
-### Dev
+### Dev & Ops
 
-*   [资料整理]()
-    - [Golang](dev/golang.md)
-    - [cpp](dev/cpp.md)
+*   [Dev资料]()
+    - [Go](dev/golang.md)
+    - [Cpp](dev/cpp.md)
 
 ***
 
