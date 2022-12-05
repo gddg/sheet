@@ -112,3 +112,12 @@ sudo make install
 
 ubuntu 下 init.d 服务启动脚本编写
 https://codeantenna.com/a/9c7quFnSxy
+
+
+# ls  
+exa 
+ranger
+
+10 款更先进的开源命令行工具
+
+https://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&mid=2650153517&idx=4&sn=26e1897650ce96f2f4491a39b3dc679e&chksm=bed9f94389ae705570a99e286dc780a8b6a57e330edf2c6d95f9558a6bd1141f0ee2d73ac112&mpshare=1&scene=1&srcid=0726w7n4wl9ssTVnQN9cJTWS&sharer_sharetime=1658973430778&sharer_shareid=7f27fe51e1971663d24301e15bdba09a&exportkey=AVhioe64EN358r%2B%2FyOEKYHU%3D&acctmode=0&pass_ticket=k1KK7Iz6CDpzPc6GgJs462BvtD0GQqQsEd1a1vYg1%2Fn3EDnnBHTCvHYYdm6DRuLX&wx_header=0#rd
