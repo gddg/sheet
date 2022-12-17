@@ -10,7 +10,7 @@
 
 ## Dev & Ops
 
-* [Dev资料](README.md)
+* [Dev资料](dev/dev.md)
   * [Go](dev/golang.md)
   * [Cpp](dev/cpp.md)
   * [macros](dev/macros.md)
