@@ -17,6 +17,8 @@
   * [TCP](dev/tcp.md)
   * [Python](dev/python.md)
 
+  * [Python](dev/html.md)
+
 ***
 
 * [network tools](network.md)
