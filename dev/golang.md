@@ -55,14 +55,35 @@ Distributed transactional NoSQL database, Redis protocol compatible using tikv a
 # 工具
 
 
-
-
-awesome-go
+awesome-go go资源清单
 [https://github.com/avelino/awesome-go](https://github.com/avelino/awesome-go)
 
 
 
+容器监控：cAdvisor  go
 
+[容器监控：cAdvisor](https://sheldon-lu.github.io/sheldon_Gitbook/exporter/use-prometheus-monitor-container.html)
+
+https://github.com/google/cadvisor
+
+[Cadvisor源码分析入门篇（一](https://luojis.com/cadvisor/cadvisor-source-code1-20160927.html)
+
+
+
+
+[the-golang-standard-library-by-example 中文 ](https://qianlonggit.gitbooks.io/the-golang-standard-library-by-example/content/preface.html)
+
+
+
+
+[Beego](https://beego.gocn.vip/beego/zh/developing/config/#%E6%94%AF%E6%8C%81%E7%9A%84%E6%A0%BC%E5%BC%8F)
+
+
+
+[gorm库 ](https://gorm.io/zh_CN/docs/update.html#%E4%BF%9D%E5%AD%98%E6%89%80%E6%9C%89%E5%AD%97%E6%AE%B5)
+
+
+[各种awesome books](https://github.com/sindresorhus/awesome#books)
 
 https://github.com/eolinker/apinto/tree/main
 基于golang开发的网关。具有各种插件，可以自行扩展，即插即用。此外，它可以快速帮助企业管理API服务，提高API服务的稳定性和安全性。
