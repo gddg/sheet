@@ -17,7 +17,7 @@
   * [TCP](dev/tcp.md)
   * [Python](dev/python.md)
 
-  * [Python](dev/html.md)
+  * [Html](dev/html.md)
 
 ***
 
