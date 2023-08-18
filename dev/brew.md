@@ -16,3 +16,5 @@ brew install bat duf dust exa hyperfine zip lsd ripgrep tcptunel tldr zoxide
 
 
 
+linux 支持了。2021
+
