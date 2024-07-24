@@ -86,3 +86,12 @@ cache: The cache parameter may be set to either "shared" or "private". Setting i
 # FAQ
 
 <https://www.sqlite.org/faq.html#q5>
+
+
+
+https://sqlite.net.cn/lang_altertable.html
+
+
+
+[SQLITE问题整理
+](https://mp.weixin.qq.com/s?__biz=MzkyODU5MTYxMA==&mid=2247494122&idx=1&sn=13374f38699c7e19c2bc2f60fd578a50&chksm=c214d27ff5635b692bb9c8d1f2970cdbb8890f8404fc68d5fca7d094c28626a0fbb7df62fb47&mpshare=1&scene=1&srcid=0722OntklHoaMWqDVWjxgc46&sharer_shareinfo=9b637c9c418870358ca7f8dc097496cb&sharer_shareinfo_first=9b637c9c418870358ca7f8dc097496cb&exportkey=n_ChQIAhIQnZFOvRz53xCPWALHcyIv5BLyAQIE97dBBAEAAAAAAC6BISxy%2B60AAAAOpnltbLcz9gKNyK89dVj0bF2EEgxPV63ut7Tuf%2B70vKjALePLk7Tkf3mztf%2F1KiNlUPqKA4b4YYDH7tvBPvwk86lVDG0GE2HQrt0q4KONleU2KUK6k0JCen8lL1FWfaHzorks%2FgKR2pGcWm0f%2FlZrjY3c47AwTZWkSlYKvBGlliCAOqwdBIdd4%2FW0uBVuUhCPn%2Fygiz0b5gjg6CmmAyja6ULGHmbQltvH32AXWOwZmW20TLU0yOC8sieFKxSeRPkEFMazEPCk4awiK2ENWfcc9gq6plOmNkfCdhfQ&acctmode=0&pass_ticket=JXTPA%2BDox5%2FpqtvQQH2zqHQk147zCjqsCBLVWntvP0%2Fj2Mn%2FqbYkrbCAvpCV7mtC&wx_header=0#rd)

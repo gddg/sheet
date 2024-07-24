@@ -19,3 +19,12 @@ TradingView Lightweight Charts™ are one of the smallest and fastest financial 
 
 Open Source JIRA,
 <https://github.com/makeplane/plane>
+
+
+
+
+
+
+js唯一教程！
+
+https://zh.javascript.info/closure
