@@ -78,3 +78,24 @@ LINUX KERNEL SPINLOCK使用不当的后果
 
 
 
+
+
+[qt分裂c++17 版本 copperspice ]( https://github.com/copperspice/copperspice/tree/master )
+
+
+
+
+
+
+[LuaBridge3](https://github.com/kunitoki/LuaBridge3)
+
+LuaBridge3 是一个轻量级、无依赖性的库，用于在 C++ 和 Lua（一种强大、快速、轻量级、可嵌入的脚本语言）之间来回映射数据、函数和类.
+https://github.com/kunitoki/LuaBridge3   
+
+
+
+
+
+简洁易用的C++11网络库
+
+https://github.com/yedf2/handy
